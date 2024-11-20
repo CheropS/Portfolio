@@ -696,6 +696,8 @@ section {
   .portfolios {
     grid-template-columns: 1fr;
     padding-bottom: 6rem;
+    display: flex;
+    flex-direction: column;
   }
   .blogs {
     grid-template-columns: 1fr;
