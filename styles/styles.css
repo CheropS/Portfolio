@@ -701,6 +701,9 @@ section {
   }
   .portfolio-item img {
       width: 100%;
+      margin: 0%;
+      height: auto;
+      max-width: 100%;
     }
   
   .blogs {
