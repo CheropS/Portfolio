@@ -699,6 +699,10 @@ section {
     display: flex;
     flex-direction: column;
   }
+  .portfolio-item img {
+      width: 100%;
+    }
+  
   .blogs {
     grid-template-columns: 1fr;
     padding-bottom: 6rem;
